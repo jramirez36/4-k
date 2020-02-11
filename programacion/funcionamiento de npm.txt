@@ -1,0 +1,3 @@
+npm init -y no inicia si el nombre tiene espacios
+npm install/ -i (nombre del paquete)
+npm install y instalara todos los paquetes de la aplicación
